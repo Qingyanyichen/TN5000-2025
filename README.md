@@ -3,4 +3,6 @@ This repository is established for our manuscript "TN5000: An Ultrasound Image D
 
 Currently, the baseline methods of detection and classification for ultrasound image dataset are publicly available. And the ultrasound image dataset TN5000 will also be publicly available here, as soon as our manuscript is accepted.
 
+If you have any questions or any suggestions, please contact Huan Zhang: zhanghuan19@tsinghua.org.cn
+
 We respectfully request the researchers utilizing TN5000 dataset could cite this paper, as well as the corresponding source dataset in their subsequent publications.
